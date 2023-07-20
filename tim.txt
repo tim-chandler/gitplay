@@ -2,4 +2,4 @@ git pull origin main --no-rebase
 # resolve conflicts in VS code
 git push (for that feature branch)
 
-change1
+change 2
